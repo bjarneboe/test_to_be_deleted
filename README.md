@@ -2,6 +2,8 @@
 
 Test repos.
 
+## Testing Mermaid in markdown
+https://mermaid.js.org/syntax/gantt.html
 ```mermaid
 
 gantt
